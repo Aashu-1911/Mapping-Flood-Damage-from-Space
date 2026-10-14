@@ -56,13 +56,13 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="UFNS Tactical GIS Dashboard & API Server")
     parser.add_argument(
         "--host",
-        default=os.environ.get("UFNS_API_HOST", "127.0.0.1"),
-        help="Host to bind server (default: 127.0.0.1)",
+        default=os.environ.get("HOST", os.environ.get("UFNS_API_HOST", "0.0.0.0")),
+        help="Host to bind server (default: 0.0.0.0)",
     )
     parser.add_argument(
         "--port",
         type=int,
-        default=int(os.environ.get("UFNS_API_PORT", "8088")),
+        default=int(os.environ.get("PORT", os.environ.get("UFNS_API_PORT", "8088"))),
         help="Port to bind server (default: 8088)",
     )
     args = parser.parse_args()
