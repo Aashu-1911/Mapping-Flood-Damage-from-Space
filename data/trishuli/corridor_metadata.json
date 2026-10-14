@@ -1,0 +1,23 @@
+{
+  "disaster_event": "August 2026 Northern Nepal Glacier Collapse & Trishuli Debris Flood",
+  "date": "2026-08-26",
+  "aoi_bbox": [
+    85.12,
+    27.95,
+    85.42,
+    28.32
+  ],
+  "copernicus_activation": "EMSR927",
+  "dem_file": "copernicus_dem_30m.tif",
+  "infrastructure_file": "infrastructure.geojson",
+  "ground_truth_file": "emsr927_ground_truth.geojson",
+  "settlements_count": 97,
+  "hospitals_count": 10,
+  "roads_count": 51,
+  "bridges_count": 6,
+  "buildings_count": 864,
+  "observed_events_count": 2,
+  "sentinel1_orbit_track": 85,
+  "sentinel1_pre_date": "2026-08-16",
+  "sentinel1_post_date": "2026-08-28"
+}

@@ -1,0 +1,2349 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "corridor": "Bhote Koshi - Trishuli River Corridor, Rasuwa District, Nepal",
+    "event_date": "2026-08-26",
+    "source": "OpenStreetMap pre-event snapshot",
+    "attribution": "\u00a9 OpenStreetMap contributors",
+    "settlements_count": 97,
+    "hospitals_count": 10,
+    "roads_count": 0,
+    "bridges_count": 0
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.337252,
+          28.1636668
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_267564991",
+        "name": "Shyaphru",
+        "name_ne": "\u0938\u094d\u092f\u093e\u092a\u094d\u0930\u0941 \u092c\u0947\u0938\u0940",
+        "place_type": "village",
+        "population": 1850,
+        "coordinates": [
+          85.337252,
+          28.1636668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1994751,
+          28.1899723
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_267564995",
+        "name": "Somdang",
+        "name_ne": "Somdang",
+        "place_type": "hamlet",
+        "population": 310,
+        "coordinates": [
+          85.1994751,
+          28.1899723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.257103,
+          28.1580389
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_269569034",
+        "name": "\u0917\u094b\u0920\u0947\u0928",
+        "name_ne": "\u0917\u094b\u0920\u0947\u0928",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.257103,
+          28.1580389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2768371,
+          28.1573925
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_269569475",
+        "name": "Godam",
+        "name_ne": "\u0917\u094b\u0926\u093e\u092e",
+        "place_type": "hamlet",
+        "population": 380,
+        "coordinates": [
+          85.2768371,
+          28.1573925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3219356,
+          28.1665549
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_269569477",
+        "name": "Bahun Danda",
+        "name_ne": "\u092c\u093e\u0939\u0941\u0928\u0921\u093e\u0901\u0921\u093e",
+        "place_type": "hamlet",
+        "population": 420,
+        "coordinates": [
+          85.3219356,
+          28.1665549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3121197,
+          28.129782
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_269569692",
+        "name": "Thulo Bharkhu",
+        "name_ne": "\u0920\u0941\u0932\u094b \u092d\u093e\u0930\u094d\u0916\u0941",
+        "place_type": "hamlet",
+        "population": 680,
+        "coordinates": [
+          85.3121197,
+          28.129782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3557436,
+          28.134476
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_601106206",
+        "name": "Dursagang",
+        "name_ne": "\u0926\u0941\u0930\u094d\u0938\u093e\u0917\u093e\u0919",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3557436,
+          28.134476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3798387,
+          28.0923978
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_601521341",
+        "name": "Laurebina",
+        "name_ne": "\u0932\u094c\u0930\u093f\u092c\u093f\u0928\u093e",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3798387,
+          28.0923978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3401621,
+          28.1108705
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_601594281",
+        "name": "Chandanbari",
+        "name_ne": "\u091a\u0902\u0926\u0928 \u092c\u093e\u0921\u0940",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3401621,
+          28.1108705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3777789,
+          28.2777749
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_992955542",
+        "name": "Rasuwa Gadhi",
+        "name_ne": "\u0930\u0938\u0941\u0935\u093e\u0917\u0922\u0940",
+        "place_type": "hamlet",
+        "population": 650,
+        "coordinates": [
+          85.3777789,
+          28.2777749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3970476,
+          28.1625011
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_1547068160",
+        "name": "Sherpagaun",
+        "name_ne": "\u0936\u0947\u0930\u094d\u092a\u093e\u0917\u093e\u0909\u0901",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3970476,
+          28.1625011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2988204,
+          28.2200652
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_2554000784",
+        "name": "Tatopani",
+        "name_ne": "\u0924\u093e\u0924\u094b\u092a\u093e\u0928\u0940",
+        "place_type": "hamlet",
+        "population": 410,
+        "coordinates": [
+          85.2988204,
+          28.2200652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3158331,
+          28.2079017
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_2554091027",
+        "name": "Nagthali",
+        "name_ne": "\u0928\u093e\u0917\u0925\u0932\u0940",
+        "place_type": "hamlet",
+        "population": 350,
+        "coordinates": [
+          85.3158331,
+          28.2079017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3576961,
+          28.2108549
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_2554587303",
+        "name": "Lingling",
+        "name_ne": "\u0932\u093f\u0919\u0932\u093f\u0919",
+        "place_type": "hamlet",
+        "population": 430,
+        "coordinates": [
+          85.3576961,
+          28.2108549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2977228,
+          28.1989194
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_2772174431",
+        "name": "Gongang",
+        "name_ne": "\u0917\u094b\u0919\u094d\u0917\u093e\u0919",
+        "place_type": "hamlet",
+        "population": 520,
+        "coordinates": [
+          85.2977228,
+          28.1989194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3098914,
+          28.2036394
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_2772174479",
+        "name": "Brimdang",
+        "name_ne": "\u092c\u094d\u0930\u093f\u092e\u0921\u093e\u0919",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3098914,
+          28.2036394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3391559,
+          28.1435744
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_2820552513",
+        "name": "Brabal",
+        "name_ne": "\u092c\u094d\u0930\u093e\u092c\u0932",
+        "place_type": "village",
+        "population": 450,
+        "coordinates": [
+          85.3391559,
+          28.1435744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3591359,
+          28.1768066
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_2828873676",
+        "name": "Khangjim",
+        "name_ne": "\u0916\u093e\u0919\u091c\u093f\u092e",
+        "place_type": "hamlet",
+        "population": 300,
+        "coordinates": [
+          85.3591359,
+          28.1768066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1765028,
+          28.0170397
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3415524998",
+        "name": "Archale",
+        "name_ne": "\u0905\u0930\u094d\u091a\u0932\u0947",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.1765028,
+          28.0170397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1814106,
+          28.0172554
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3415524999",
+        "name": "Shanti Bazar",
+        "name_ne": "\u0936\u093e\u0928\u094d\u0924\u093f \u092c\u091c\u093e\u0930",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.1814106,
+          28.0172554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1911972,
+          28.0292002
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3415525225",
+        "name": "Simle",
+        "name_ne": "\u0938\u093f\u092e\u094d\u0932\u0947",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.1911972,
+          28.0292002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2790735,
+          28.1164817
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3415530606",
+        "name": "Haku Besi",
+        "name_ne": "\u0939\u093e\u0915\u0941 \u092c\u0947\u0938\u0940",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2790735,
+          28.1164817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3196654,
+          28.1374798
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3415530630",
+        "name": "Sano Bharkhu",
+        "name_ne": "\u0938\u093e\u0928\u093e\u0947 \u092d\u093e\u0930\u094d\u0916\u0941",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3196654,
+          28.1374798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1995473,
+          28.0621061
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3415532806",
+        "name": "Chipleti",
+        "name_ne": "\u091a\u093f\u092a\u094d\u0932\u0947\u091f\u0940",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.1995473,
+          28.0621061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2070031,
+          28.0717737
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3415533959",
+        "name": "Mailung",
+        "name_ne": "\u092e\u0948\u0932\u0941\u0919",
+        "place_type": "hamlet",
+        "population": 980,
+        "coordinates": [
+          85.2070031,
+          28.0717737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2701521,
+          28.1241718
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3415536482",
+        "name": "Sano Haku",
+        "name_ne": "\u0938\u093e\u0928\u094b \u0939\u093e\u0915\u0941",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2701521,
+          28.1241718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.353164,
+          28.2290052
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3415543901",
+        "name": "Dalphedi",
+        "name_ne": "\u0921\u093e\u0932\u094d\u092b\u0947\u0921\u0940",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.353164,
+          28.2290052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2955714,
+          28.1424978
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3415546447",
+        "name": "Gre",
+        "name_ne": "\u0917\u094d\u0930\u0947",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2955714,
+          28.1424978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2260042,
+          28.0573468
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3415550685",
+        "name": "Grang",
+        "name_ne": "\u0917\u094d\u0930\u093e\u0919",
+        "place_type": "village",
+        "population": 450,
+        "coordinates": [
+          85.2260042,
+          28.0573468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2440931,
+          28.077556
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3415553188",
+        "name": "Thade",
+        "name_ne": "\u0920\u093e\u0921\u0947",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2440931,
+          28.077556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.300912,
+          28.0049343
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3476508984",
+        "name": "Yubra",
+        "name_ne": "\u092f\u0941\u092c\u094d\u0930\u093e",
+        "place_type": "village",
+        "population": 450,
+        "coordinates": [
+          85.300912,
+          28.0049343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3064179,
+          28.0179632
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3476508989",
+        "name": "Settlement_3476508989",
+        "name_ne": "Settlement_3476508989",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3064179,
+          28.0179632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2774098,
+          28.0263775
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3477194430",
+        "name": "Settlement_3477194430",
+        "name_ne": "Settlement_3477194430",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2774098,
+          28.0263775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2638022,
+          28.1152615
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3478046385",
+        "name": "Settlement_3478046385",
+        "name_ne": "Settlement_3478046385",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2638022,
+          28.1152615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2447622,
+          27.987457
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3484404878",
+        "name": "Settlement_3484404878",
+        "name_ne": "Settlement_3484404878",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2447622,
+          27.987457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2721161,
+          27.9945574
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3484417792",
+        "name": "Settlement_3484417792",
+        "name_ne": "Settlement_3484417792",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2721161,
+          27.9945574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3081759,
+          28.0358802
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3488007976",
+        "name": "Dogl\u0101ng",
+        "name_ne": "\u0921\u094b\u0917\u094d\u0932\u093e\u0919",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3081759,
+          28.0358802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3421463,
+          28.2557551
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3494541109",
+        "name": "Dalgaun",
+        "name_ne": "Dalgaun",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3421463,
+          28.2557551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2430016,
+          28.1628598
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3495645010",
+        "name": "Jarsadada",
+        "name_ne": "\u091c\u0930\u094d\u0938\u093e \u0921\u093e\u0901\u0921\u093e",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2430016,
+          28.1628598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2963163,
+          28.1753617
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3495699360",
+        "name": "Chyamdole",
+        "name_ne": "\u091a\u094d\u092f\u093e\u092e \u0921\u094b\u0932",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2963163,
+          28.1753617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2865329,
+          28.2049281
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3495750389",
+        "name": "Settlement_3495750389",
+        "name_ne": "Settlement_3495750389",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2865329,
+          28.2049281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2814438,
+          28.21507
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3495750390",
+        "name": "Tetanchet",
+        "name_ne": "\u0924\u0947\u091f\u093e\u0919\u091a\u0947\u091f",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2814438,
+          28.21507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3107515,
+          28.1918487
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3495750391",
+        "name": "Settlement_3495750391",
+        "name_ne": "Settlement_3495750391",
+        "place_type": "village",
+        "population": 450,
+        "coordinates": [
+          85.3107515,
+          28.1918487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.317593,
+          28.187848
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3495754793",
+        "name": "Bhrajam",
+        "name_ne": "\u092d\u094d\u0930\u091c\u092e",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.317593,
+          28.187848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3606919,
+          28.1430447
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3495857671",
+        "name": "Thulo Sy\u0101bru",
+        "name_ne": "\u0920\u0941\u0932\u094b \u0938\u094d\u092f\u093e\u092a\u094d\u0930\u0941",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3606919,
+          28.1430447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2222562,
+          28.0888653
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3504477174",
+        "name": "Gogne",
+        "name_ne": "\u0917\u094b\u0917\u0928\u0947",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2222562,
+          28.0888653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1714444,
+          28.0280757
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3504477175",
+        "name": "Jharkaleri",
+        "name_ne": "\u091d\u0930\u094d\u0915\u0932\u0947\u0930\u0940",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.1714444,
+          28.0280757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3458212,
+          28.1767222
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3510164368",
+        "name": "Settlement_3510164368",
+        "name_ne": "Settlement_3510164368",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3458212,
+          28.1767222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1638055,
+          28.0036486
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_3691065952",
+        "name": "Satdobato",
+        "name_ne": "\u0938\u093e\u0924\u0926\u094b\u092c\u093e\u091f\u094b",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.1638055,
+          28.0036486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1726939,
+          28.0001697
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_4226430344",
+        "name": "Karki Gaun",
+        "name_ne": "\u0915\u093e\u0930\u094d\u0915\u0940 \u0917\u093e\u0909\u0901",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.1726939,
+          28.0001697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2112403,
+          28.0021505
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_4967937739",
+        "name": "Dhaibung",
+        "name_ne": "\u0927\u0907\u092c\u0941\u0919",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2112403,
+          28.0021505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2810647,
+          28.1312515
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_5411466640",
+        "name": "Pangling",
+        "name_ne": "\u092a\u093e\u0919\u0932\u093f\u0919",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2810647,
+          28.1312515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3047153,
+          28.1104105
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10207187270",
+        "name": "National Rainbow Trout Research Station, Dhunche",
+        "name_ne": "National Rainbow Trout Research Station, Dhunche",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3047153,
+          28.1104105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.302123,
+          28.1123859
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10207223745",
+        "name": "Pasture and Fodder Research Station, Dhunche",
+        "name_ne": "Pasture and Fodder Research Station, Dhunche",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.302123,
+          28.1123859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.181726,
+          28.0235604
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10603458426",
+        "name": "Salim Bhitta",
+        "name_ne": "\u0938\u093e\u0932\u093f\u092e \u092d\u093f\u0924\u094d\u0924\u093e",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.181726,
+          28.0235604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2030983,
+          28.0142354
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10603466952",
+        "name": "Dhunge",
+        "name_ne": "\u0922\u0941\u0919\u094d\u0917\u0947",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2030983,
+          28.0142354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2525951,
+          28.0135003
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10603476241",
+        "name": "Ghormu",
+        "name_ne": "\u0918\u094b\u0930\u094d\u092e\u0941",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2525951,
+          28.0135003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2736249,
+          28.0115116
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10603486359",
+        "name": "Parchyang",
+        "name_ne": "\u092a\u093e\u0930\u091a\u094d\u092f\u093e\u0919\u094d\u0917",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2736249,
+          28.0115116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1825623,
+          27.984691
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10603537479",
+        "name": "Naubisephat",
+        "name_ne": "\u0928\u094c\u0935\u093f\u0938\u0947 \u092b\u093e\u0901\u091f",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.1825623,
+          27.984691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2001662,
+          28.0664188
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10603584476",
+        "name": "Dharna bhadaure",
+        "name_ne": "\u0927\u0930\u094d\u0928\u093e\u092d\u0926\u094c\u0930\u0947",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2001662,
+          28.0664188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1985693,
+          28.0714356
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10603590046",
+        "name": "Siruchet",
+        "name_ne": "\u0938\u093f\u0930\u0941\u091a\u0947\u0924",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.1985693,
+          28.0714356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.237744,
+          27.9995788
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10603591893",
+        "name": "Khalchet",
+        "name_ne": "\u0916\u093e\u0932\u091a\u0947\u0924",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.237744,
+          27.9995788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2481629,
+          28.0042411
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10603591972",
+        "name": "Sarsyu",
+        "name_ne": "\u0938\u0930\u0938\u093f\u0909",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2481629,
+          28.0042411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3272152,
+          28.1868888
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10833649292",
+        "name": "Pajung",
+        "name_ne": "\u092a\u093e\u091c\u0941\u0919",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3272152,
+          28.1868888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2636698,
+          28.002583
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10923355998",
+        "name": "Ekpakhe",
+        "name_ne": "\u090f\u0915\u094d\u092a\u093e\u0916\u0947",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2636698,
+          28.002583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2699402,
+          27.9989545
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10923399838",
+        "name": "Manduchet",
+        "name_ne": "\u092e\u093e\u0928\u094d\u0921\u0941\u091a\u0947\u091f",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2699402,
+          27.9989545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2869612,
+          28.0268547
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10923401248",
+        "name": "Chyupar Khola",
+        "name_ne": "\u091a\u094d\u092f\u0941\u092a\u0930 \u0916\u094b\u0932\u093e",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2869612,
+          28.0268547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2604973,
+          27.9994886
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10923402625",
+        "name": "Kapthali",
+        "name_ne": "\u0915\u092a\u094d\u0924\u093e\u0932\u0940",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2604973,
+          27.9994886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3037755,
+          28.0076821
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10923406688",
+        "name": "Thangsen Yubra",
+        "name_ne": "\u0925\u093e\u0919\u094d\u0938\u0947\u0928 \u092f\u0941\u0935\u093e",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3037755,
+          28.0076821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2871624,
+          28.005871
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10923410731",
+        "name": "Ghichet",
+        "name_ne": "\u0918\u093f\u091a\u0947\u0924",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2871624,
+          28.005871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2369942,
+          27.9847648
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10923411849",
+        "name": "Badare",
+        "name_ne": "\u092c\u0921\u0939\u0930\u0947",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2369942,
+          27.9847648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2537777,
+          28.0092053
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10923413444",
+        "name": "Komu",
+        "name_ne": "\u0915\u094b\u092e\u0941",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2537777,
+          28.0092053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2841561,
+          28.0030286
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_10923421509",
+        "name": "Ghichet Ghattelung",
+        "name_ne": "\u0918\u093f\u091a\u0947\u0924 \u0918\u091f\u0947\u0932\u0941\u0919",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.2841561,
+          28.0030286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3551981,
+          28.1686192
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_11186154604",
+        "name": "Bhanjyang",
+        "name_ne": "\u092d\u091e\u094d\u091c\u094d\u092f\u093e\u0919",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3551981,
+          28.1686192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3619339,
+          28.1710681
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_11186154605",
+        "name": "Surka",
+        "name_ne": "\u0938\u0941\u0930\u094d\u0915\u093e",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3619339,
+          28.1710681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2765945,
+          28.0107971
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_13242877439",
+        "name": "Naukunda",
+        "name_ne": "\u0928\u094c\u0915\u0941\u0923\u094d\u0921",
+        "place_type": "village",
+        "population": 450,
+        "coordinates": [
+          85.2765945,
+          28.0107971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1951685,
+          28.0116144
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_13242877440",
+        "name": "Uttargaya",
+        "name_ne": "\u0909\u0924\u094d\u0924\u0930\u0917\u092f\u093e",
+        "place_type": "village",
+        "population": 450,
+        "coordinates": [
+          85.1951685,
+          28.0116144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2134318,
+          28.0059409
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_13242877441",
+        "name": "Kalika",
+        "name_ne": "\u0915\u093e\u0932\u093f\u0915\u093e",
+        "place_type": "village",
+        "population": 450,
+        "coordinates": [
+          85.2134318,
+          28.0059409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3130932,
+          28.1705778
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_13242877442",
+        "name": "Aamachhodingmo",
+        "name_ne": "\u0906\u092e\u093e\u091b\u094b\u0926\u093f\u0919\u094d\u092e\u094b",
+        "place_type": "village",
+        "population": 450,
+        "coordinates": [
+          85.3130932,
+          28.1705778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.298525,
+          28.110361
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_13242877445",
+        "name": "Gosaikunda",
+        "name_ne": "\u0917\u094b\u0938\u093e\u0907\u0901\u0915\u0941\u0923\u094d\u0921",
+        "place_type": "village",
+        "population": 450,
+        "coordinates": [
+          85.298525,
+          28.110361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3427433,
+          28.164569
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_14127413536",
+        "name": "Shyaphru Bensi",
+        "name_ne": "\u0938\u094d\u092f\u093e\u092b\u094d\u0930\u0941 \u092c\u0947\u0938\u0940",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3427433,
+          28.164569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3327686,
+          28.1832033
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_14139231558",
+        "name": "Settlement_14139231558",
+        "name_ne": "Settlement_14139231558",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3327686,
+          28.1832033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3609613,
+          28.2257293
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_14139981839",
+        "name": "Settlement_14139981839",
+        "name_ne": "Settlement_14139981839",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3609613,
+          28.2257293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.33647,
+          28.1624198
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_14139984646",
+        "name": "Settlement_14139984646",
+        "name_ne": "Settlement_14139984646",
+        "place_type": "village",
+        "population": 450,
+        "coordinates": [
+          85.33647,
+          28.1624198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3318861,
+          28.1617837
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_14139984647",
+        "name": "Settlement_14139984647",
+        "name_ne": "Settlement_14139984647",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3318861,
+          28.1617837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3298315,
+          28.1609821
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_14139984648",
+        "name": "Settlement_14139984648",
+        "name_ne": "Settlement_14139984648",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3298315,
+          28.1609821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3282303,
+          28.1651675
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_14139984670",
+        "name": "Settlement_14139984670",
+        "name_ne": "Settlement_14139984670",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3282303,
+          28.1651675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3593492,
+          28.2116268
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_14139991807",
+        "name": "Settlement_14139991807",
+        "name_ne": "Settlement_14139991807",
+        "place_type": "village",
+        "population": 450,
+        "coordinates": [
+          85.3593492,
+          28.2116268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3491032,
+          28.2006403
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_14139991868",
+        "name": "Settlement_14139991868",
+        "name_ne": "Settlement_14139991868",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3491032,
+          28.2006403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.311842,
+          28.1553019
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_14140061110",
+        "name": "Settlement_14140061110",
+        "name_ne": "Settlement_14140061110",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.311842,
+          28.1553019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3082156,
+          28.1536182
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "settlement_14140061123",
+        "name": "Settlement_14140061123",
+        "name_ne": "Settlement_14140061123",
+        "place_type": "hamlet",
+        "population": 450,
+        "coordinates": [
+          85.3082156,
+          28.1536182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3372,
+          28.1636
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "set_syabrubesi",
+        "name": "Syabrubesi",
+        "name_ne": "\u0938\u094d\u092f\u093e\u092b\u094d\u0930\u0941\u092c\u0947\u0938\u0940",
+        "place_type": "village",
+        "population": 1850,
+        "coordinates": [
+          85.3372,
+          28.1636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3789,
+          28.2415
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "set_timure",
+        "name": "Timure",
+        "name_ne": "\u091f\u093f\u092e\u0941\u0930\u0947",
+        "place_type": "village",
+        "population": 1200,
+        "coordinates": [
+          85.3789,
+          28.2415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3778,
+          28.2778
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "set_rasuwagadhi",
+        "name": "Rasuwagadhi",
+        "name_ne": "\u0930\u0938\u0941\u0935\u093e\u0917\u0922\u0940",
+        "place_type": "border_post",
+        "population": 650,
+        "coordinates": [
+          85.3778,
+          28.2778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2975,
+          28.113
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "set_dhunche",
+        "name": "Dhunche (HQ)",
+        "name_ne": "\u0927\u0941\u0928\u094d\u091a\u0947",
+        "place_type": "town",
+        "population": 2744,
+        "coordinates": [
+          85.2975,
+          28.113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1867,
+          28.0125
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "set_betrawati",
+        "name": "Betrawati",
+        "name_ne": "\u092c\u0947\u0924\u094d\u0930\u093e\u0935\u0924\u0940",
+        "place_type": "village",
+        "population": 2100,
+        "coordinates": [
+          85.1867,
+          28.0125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.161,
+          27.962
+        ]
+      },
+      "properties": {
+        "category": "settlement",
+        "id": "set_trishuli",
+        "name": "Trishuli / Bidur",
+        "name_ne": "\u0924\u094d\u0930\u093f\u0936\u0941\u0932\u0940 / \u0935\u093f\u0926\u0941\u0930",
+        "place_type": "city",
+        "population": 26750,
+        "coordinates": [
+          85.161,
+          27.962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3364796,
+          28.1421939
+        ]
+      },
+      "properties": {
+        "category": "hospital",
+        "id": "hospital_3494711409",
+        "name": "Health Post",
+        "amenity": "hospital",
+        "coordinates": [
+          85.3364796,
+          28.1421939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2034632,
+          27.9938874
+        ]
+      },
+      "properties": {
+        "category": "hospital",
+        "id": "hospital_4407834159",
+        "name": "Kalika Community Hospital",
+        "amenity": "hospital",
+        "coordinates": [
+          85.2034632,
+          27.9938874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.169186,
+          28.016812
+        ]
+      },
+      "properties": {
+        "category": "hospital",
+        "id": "hospital_4811279924",
+        "name": "Health Post",
+        "amenity": "hospital",
+        "coordinates": [
+          85.169186,
+          28.016812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2455504,
+          27.9874396
+        ]
+      },
+      "properties": {
+        "category": "hospital",
+        "id": "hospital_5641039123",
+        "name": "Chiti Health Post \u091a\u0940\u0924\u0940 \u0938\u094d\u0935\u093e\u0938\u094d\u0925\u094d\u092f \u0915\u0947\u0928\u094d\u0926\u094d\u0930",
+        "amenity": "hospital",
+        "coordinates": [
+          85.2455504,
+          27.9874396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2964836,
+          28.1104436
+        ]
+      },
+      "properties": {
+        "category": "hospital",
+        "id": "hospital_5651307969",
+        "name": "Rasuwa District Hospital",
+        "amenity": "hospital",
+        "coordinates": [
+          85.2964836,
+          28.1104436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2034611,
+          27.9937784
+        ]
+      },
+      "properties": {
+        "category": "hospital",
+        "id": "hospital_7130537185",
+        "name": "Kalika Community Hospital \u0915\u093e\u0932\u093f\u0915\u093e \u0938\u093e\u092e\u0941\u0926\u093e\u092f\u093f\u0915 \u0905\u0938\u094d\u092a\u0924\u093e\u0932",
+        "amenity": "hospital",
+        "coordinates": [
+          85.2034611,
+          27.9937784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.2982,
+          28.1141
+        ]
+      },
+      "properties": {
+        "category": "hospital",
+        "id": "hosp_dhunche",
+        "name": "Dhunche District Hospital",
+        "amenity": "hospital",
+        "coordinates": [
+          85.2982,
+          28.1141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.162,
+          27.964
+        ]
+      },
+      "properties": {
+        "category": "hospital",
+        "id": "hosp_trishuli",
+        "name": "Trishuli District Hospital",
+        "amenity": "hospital",
+        "coordinates": [
+          85.162,
+          27.964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.338,
+          28.1645
+        ]
+      },
+      "properties": {
+        "category": "hospital",
+        "id": "hosp_syabrubesi",
+        "name": "Syabrubesi Health Post",
+        "amenity": "clinic",
+        "coordinates": [
+          85.338,
+          28.1645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3795,
+          28.242
+        ]
+      },
+      "properties": {
+        "category": "hospital",
+        "id": "hosp_timure",
+        "name": "Timure Border Health Post",
+        "amenity": "clinic",
+        "coordinates": [
+          85.3795,
+          28.242
+        ]
+      }
+    }
+  ]
+}

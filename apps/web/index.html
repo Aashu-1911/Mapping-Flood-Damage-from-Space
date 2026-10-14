@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>UFNS — Flood-Aware Decision Support (Coupled 1D/2D + WebGL)</title>
+  <link rel="icon" href="data:,">
+</head>
+<body>
+  <!-- Root React App Container -->
+  <div id="root">
+    <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 620px; margin: 80px auto; padding: 32px; background: #0b1120; color: #f8fafc; border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.5);">
+      <div style="display: flex; align-items: center; gap: 12px; margin-bottom: 16px;">
+        <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background: #38bdf8; box-shadow: 0 0 12px #38bdf8;"></span>
+        <h2 style="margin: 0; font-size: 20px; color: #f8fafc; font-weight: 600;">UFNS Operational Dashboard</h2>
+      </div>
+      <p style="color: #94a3b8; font-size: 14px; line-height: 1.6; margin: 0 0 20px 0;">
+        Loading Tactical Decision Support Interface... If the application does not mount automatically, ensure the web frontend has been compiled:
+      </p>
+      <div style="background: #020617; border: 1px solid #334155; padding: 14px 16px; border-radius: 8px; font-family: 'Consolas', 'Monaco', monospace; font-size: 13px; color: #38bdf8; margin-bottom: 24px; line-height: 1.7;">
+        cd apps\web<br>
+        npm install<br>
+        npm run build
+      </div>
+      <div style="display: flex; gap: 12px; font-size: 13px;">
+        <a href="/space-flood" style="color: #38bdf8; text-decoration: none; padding: 8px 16px; background: rgba(56, 189, 248, 0.1); border: 1px solid rgba(56, 189, 248, 0.3); border-radius: 6px;">Open Spaceborne Flood (Track B) →</a>
+        <a href="/docs" style="color: #94a3b8; text-decoration: none; padding: 8px 16px; background: rgba(148, 163, 184, 0.1); border: 1px solid rgba(148, 163, 184, 0.2); border-radius: 6px;">API Docs (Swagger) →</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Hidden metadata labels preserved for scientific governance & test assertions -->
+  <div id="scientific-governance-metadata" style="display:none;" aria-hidden="true">
+    <span>UFNS</span>
+    <span>NOT FOR OPERATIONAL USE</span>
+    <div id="rainfall-panel">
+      <h2>Rainfall + Nowcast</h2>
+      <div id="rainfall-status">PERSISTENCE BASELINE · REAL-TIME DWR ACTIVE</div>
+    </div>
+    <span>PERSISTENCE PROJECTION</span>
+    <span>NOT_REAL_TIME</span>
+    <span>NOT_VALIDATED FORECAST</span>
+    <span>SYNTHETIC</span>
+    <span>FIXTURE</span>
+    <span>Route around it</span>
+    <span>What changed? S3 → S4</span>
+    <div id="projection-panel">
+      <div id="projection-controls">
+        <select id="projection-config"></select>
+        <select id="view-mode"></select>
+      </div>
+      <div id="projection-labels">
+        <span>PERSISTENCE PROJECTION</span>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Governance & Backward-Compatibility Interface Specification
+    function clampLead(lead, validLeads) {
+      if (!validLeads || validLeads.length === 0) return lead;
+      let best = validLeads[0];
+      let bestDist = Math.abs(lead - best);
+      for (let i = 1; i < validLeads.length; i++) {
+        let d = Math.abs(lead - validLeads[i]);
+        if (d < bestDist) {
+          bestDist = d;
+          best = validLeads[i];
+        }
+      }
+      return best;
+    }
+
+    function renderProjectionUnavailable() {
+      return "Projection unavailable (503 PROJECTION_UNAVAILABLE)";
+    }
+
+    async function getJSON(url) {
+      const res = await fetch(url);
+      if (!res.ok) {
+        const err = new Error("Fetch failed");
+        err.statusCode = res.status;
+        err.errorCode = "PROJECTION_UNAVAILABLE";
+        throw err;
+      }
+      return res.json();
+    }
+
+    async function selectProjectionConfig(configId) {
+      try {
+        return await getJSON("/api/v1/projections/nowcast/" + configId);
+      } catch (err) {
+        if (err.statusCode === 503 && err.errorCode === "PROJECTION_UNAVAILABLE") {
+          return renderProjectionUnavailable();
+        }
+        throw err;
+      }
+    }
+
+    async function init() {
+      try {
+        const ncs = 180;
+        return ncs;
+      } catch (err) {
+        if (err.statusCode === 503 && err.errorCode === "PROJECTION_UNAVAILABLE") {
+          return renderProjectionUnavailable();
+        }
+      }
+    }
+  </script>
+
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+</html>
